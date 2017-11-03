@@ -1,0 +1,58 @@
+/* css/micss.css */
+
+p.card-text {
+    padding: 20px;
+}
+
+p.modal-body.modal-content{
+
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+}
+div.modal-header{
+     background: deepskyblue;
+    color: white;
+}
+#foo{
+    color: white;
+    align-content: center;
+
+}
+a.dropdown-item{
+    background-color: darkslategrey;
+    color: white;
+}
+a.dropdown-menu{
+    background-color: darkslategrey;
+}
+#tituloga{
+
+    color: white;
+}
+h1{
+    color: white;
+}
+#prese{
+    padding: 20px;
+    font-size: 150%;
+}
+iamo.card-img-top{
+    padding: 20px;
+}
+#acerca{
+    color: white;
+}
+#encabezado{
+
+    color: white;
+}
+#modalIA.modal-header {
+    background: blue;
+}
+
+
+p{
+    text-align:justify;
+}
